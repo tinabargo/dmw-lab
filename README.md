@@ -1,2 +1,2 @@
 # dmw-lab
-mini-projects for DMW Lab, MSDS 2020
+Mini-projects for DMW Lab, MSDS 2020
